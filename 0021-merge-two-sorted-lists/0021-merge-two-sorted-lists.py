@@ -10,10 +10,10 @@ class Solution:
 
         while list1 != None and list2 != None:
             if list1.val <= list2.val:
-               pointer.next = ListNode(list1.val)
+               pointer.next = list1
                list1 = list1.next
             else:
-                pointer.next = ListNode(list2.val)
+                pointer.next = list2
                 list2 = list2.next
             
             pointer = pointer.next 
