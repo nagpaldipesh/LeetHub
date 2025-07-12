@@ -14,16 +14,15 @@ class Solution:
             else:
                 count -= 1
         
-
         count = 0
+        majorityCount = len(nums) /2
 
         for num in nums:
             if num == candidate:
                 count += 1
-
-        
-        if count > len(nums) /2:
-            return candidate
+            
+            if count > majorityCount:
+                return candidate
         
         return -1
 
