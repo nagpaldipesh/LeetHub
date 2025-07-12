@@ -9,14 +9,9 @@ class Solution:
         if root == None:
             return 0
         
-        return self.maxDepthRecursive(root, 0)
+        return 1 + max(
+            self.maxDepth(root.left),
+            self.maxDepth(root.right)
+            )
 
-    def maxDepthRecursive(self, node: Optional[TreeNode], depth) -> int:
-        if node == None:
-            return depth
-        
-
-        return max(
-            self.maxDepthRecursive(node.left, depth +1),
-            self.maxDepthRecursive(node.right, depth +1)
-        )
+   
