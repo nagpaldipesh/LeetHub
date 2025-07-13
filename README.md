@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/0392-is-subsequence) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/nagpaldipesh/LeetHub/tree/master/1297-maximum-number-of-balloons) |
 | [1524-string-matching-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/nagpaldipesh/LeetHub/tree/master/1297-maximum-number-of-balloons) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/nagpaldipesh/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nagpaldipesh/LeetHub/tree/master/0169-majority-element) |
+| [1297-maximum-number-of-balloons](https://github.com/nagpaldipesh/LeetHub/tree/master/1297-maximum-number-of-balloons) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
 |  |
