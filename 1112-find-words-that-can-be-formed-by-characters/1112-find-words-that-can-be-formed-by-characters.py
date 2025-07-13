@@ -6,15 +6,17 @@ class Solution:
         count = 0
 
         for word in words:
-            freq2 = Counter(word)
+            word_freq = Counter(word)
 
-            is_good = True
-            for (k, v) in freq2.items():
-                if not k in freq or freq[k] < v:
-                    is_good = False
-                    break
-            
-            if is_good:
+            if all(word_freq[c] <= freq[c] for c in word_freq):
                 count += len(word)
+            # is_good = True
+            # for (k, v) in freq2.items():
+            #     if not k in freq or freq[k] < v:
+            #         is_good = False
+            #         break
+            
+            # if is_good:
+            #     count += len(word)
 
         return count
