@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/nagpaldipesh/LeetHub/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/nagpaldipesh/LeetHub/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/nagpaldipesh/LeetHub/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/nagpaldipesh/LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/nagpaldipesh/LeetHub/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
