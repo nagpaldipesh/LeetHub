@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nagpaldipesh/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/0392-is-subsequence) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0908-middle-of-the-linked-list) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2058-concatenation-of-array) |
+## Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
