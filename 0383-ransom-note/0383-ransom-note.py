@@ -5,4 +5,4 @@ class Solution:
         ransomNote_freq = Counter(ransomNote)
         magazine_freq = Counter(magazine)
 
-        return all( k in magazine_freq and magazine_freq[k] >= v for (k,v) in ransomNote_freq.items())
+        return all(magazine_freq[k] >= v for (k,v) in ransomNote_freq.items())
