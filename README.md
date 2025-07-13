@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nagpaldipesh/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nagpaldipesh/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/nagpaldipesh/LeetHub/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/nagpaldipesh/LeetHub/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/nagpaldipesh/LeetHub/tree/master/0724-find-pivot-index) |
@@ -171,5 +172,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nagpaldipesh/LeetHub/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nagpaldipesh/LeetHub/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nagpaldipesh/LeetHub/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
