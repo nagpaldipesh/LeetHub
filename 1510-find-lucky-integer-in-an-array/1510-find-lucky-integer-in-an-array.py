@@ -4,8 +4,8 @@ class Solution:
 
         freq = Counter(arr)
         lucky = -1
-        for key in freq:
-            if key == freq[key] and key > lucky:
+        for key, count in freq.items():
+            if key == count and key > lucky:
                 lucky = key
         
         return lucky
