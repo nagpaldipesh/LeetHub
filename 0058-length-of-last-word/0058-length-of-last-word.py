@@ -1,15 +1,28 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        word = ""
+        length = 0
         lastChar = 't'
 
         for c in s:
-            if lastChar == ' ' and c != ' ':
-                word = ""
+            if c != ' ' and lastChar == ' ':
+                length = 0
             
             if c != ' ':
-                word += c
+                length += 1
             
             lastChar = c
         
-        return len(word)
+        return length
+        # word = ""
+        # lastChar = 't'
+
+        # for c in s:
+        #     if lastChar == ' ' and c != ' ':
+        #         word = ""
+            
+        #     if c != ' ':
+        #         word += c
+            
+        #     lastChar = c
+        
+        # return len(word)
