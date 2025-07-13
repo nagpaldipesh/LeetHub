@@ -2,14 +2,12 @@ class Solution:
     def appendCharacters(self, s: str, t: str) -> int:
 
         index = 0
-        n = len(t)
-
         for c in s:
             if t[index] == c:
                 index+=1
             
-            if index == n:
+            if index == len(t):
                 return 0
             
-        return  n - index
+        return  len(t) - index
         
