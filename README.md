@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nagpaldipesh/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nagpaldipesh/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
+| [0605-can-place-flowers](https://github.com/nagpaldipesh/LeetHub/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/nagpaldipesh/LeetHub/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/nagpaldipesh/LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/nagpaldipesh/LeetHub/tree/master/0605-can-place-flowers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Trie
 |  |
