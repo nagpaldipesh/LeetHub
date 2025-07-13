@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nagpaldipesh/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/0392-is-subsequence) |
+| [1524-string-matching-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/nagpaldipesh/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/3379-score-of-a-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/nagpaldipesh/LeetHub/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/nagpaldipesh/LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1524-string-matching-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/nagpaldipesh/LeetHub/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nagpaldipesh/LeetHub/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
