@@ -11,13 +11,11 @@ class Solution:
             key1 = ord(s[i]) 
             key2 = ord(t[i]) 
 
-            if maps[key1] != -1 and maps[key1] != key2:
-                return False
-            elif mapt[key2] != -1 and mapt[key2] != key1:
+            if maps[key1] != mapt[key2]:
                 return False
             else:
-                maps[key1] = key2
-                mapt[key2] = key1
+                maps[key1] = i + 1
+                mapt[key2] = i + 1
         
         return True
         # maps = {}
