@@ -3,8 +3,7 @@ class Solution:
         stack = []
         map = {}
 
-        for i in reversed(range(len(nums2))):
-            num = nums2[i]
+        for num in reversed(nums2):
             while(len(stack) > 0 and stack[-1] < num):
                 stack.pop()
 
