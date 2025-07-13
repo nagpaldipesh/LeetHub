@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nagpaldipesh/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nagpaldipesh/LeetHub/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nagpaldipesh/LeetHub/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nagpaldipesh/LeetHub/tree/master/0125-valid-palindrome) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nagpaldipesh/LeetHub/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nagpaldipesh/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/nagpaldipesh/LeetHub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagpaldipesh/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0136-single-number) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nagpaldipesh/LeetHub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
