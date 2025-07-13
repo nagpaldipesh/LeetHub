@@ -3,9 +3,6 @@ class Solution:
         if len(s) == 0:
             return True
 
-        if len(t) == 0:
-            return False
-        
         index = 0
         n = len(s)
 
