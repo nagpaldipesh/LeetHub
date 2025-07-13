@@ -9,7 +9,12 @@ class MyHashMap:
 
     def put(self, key: int, value: int) -> None:
         hash = self.get_hash(key)
-        self.remove(key)  # Ensure no duplicate keys
+        
+        for i, (k,v) in enumerate(self.bucket[hash]):
+            if k == key:
+                self.bucket[hash][i] = (key, value)
+                return
+
         self.bucket[hash].append((key, value))
 
     def get(self, key: int) -> int:
