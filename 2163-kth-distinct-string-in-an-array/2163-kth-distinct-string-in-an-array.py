@@ -1,16 +1,12 @@
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
-        map = {}
+        from collections import Counter
 
-        for s in arr:
-            if s in map:
-                map[s] += 1
-            else:
-                map[s] = 1
+        freq = Counter(arr)
         
         index = 0
-        for key in map:
-            if map[key] == 1:
+        for key in freq:
+            if freq[key] == 1:
                 index += 1
             
             if index == k:
