@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nagpaldipesh/LeetHub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nagpaldipesh/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0344-reverse-string) |
+| [3379-score-of-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
