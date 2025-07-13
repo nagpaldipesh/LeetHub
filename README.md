@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/nagpaldipesh/LeetHub/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/nagpaldipesh/LeetHub/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
+| [1137-height-checker](https://github.com/nagpaldipesh/LeetHub/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/nagpaldipesh/LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1524-string-matching-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nagpaldipesh/LeetHub/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nagpaldipesh/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nagpaldipesh/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
+| [1137-height-checker](https://github.com/nagpaldipesh/LeetHub/tree/master/1137-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/nagpaldipesh/LeetHub/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/nagpaldipesh/LeetHub/tree/master/0817-design-hashmap) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/nagpaldipesh/LeetHub/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
