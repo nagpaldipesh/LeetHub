@@ -1,8 +1,6 @@
 class Solution:
     def maxAscendingSum(self, nums: List[int]) -> int:
         n = len(nums)
-        if n == 0:
-            return 0
 
         maxSum = sumSoFar = nums[0]
 
