@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nagpaldipesh/LeetHub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nagpaldipesh/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/0392-is-subsequence) |
 | [3379-score-of-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nagpaldipesh/LeetHub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagpaldipesh/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nagpaldipesh/LeetHub/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nagpaldipesh/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 ## Tree
 |  |
