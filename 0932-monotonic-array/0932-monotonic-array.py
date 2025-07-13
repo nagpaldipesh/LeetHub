@@ -2,12 +2,12 @@ class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:
         n =  len(nums)
 
-        increasing_count = decreasing_count = 0
-
+        #increasing_count = decreasing_count = 0
+        increasing = decreasing = False
         for i in range(1, n):
             if nums[i] > nums[i-1]:
-                increasing_count += 1
+                increasing = True
             elif nums[i] < nums[i-1]:
-                decreasing_count += 1
+                decreasing = True
         
-        return increasing_count == 0 or decreasing_count == 0
+        return not increasing or not decreasing
