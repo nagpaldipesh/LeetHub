@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/nagpaldipesh/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/nagpaldipesh/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
+| [3429-special-array-i](https://github.com/nagpaldipesh/LeetHub/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
