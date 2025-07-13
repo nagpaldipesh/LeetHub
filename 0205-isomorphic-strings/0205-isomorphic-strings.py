@@ -6,11 +6,10 @@ class Solution:
 
         maps = [-1] * 128
         mapt = [-1] * 128
-        sub = ord('a')
         
         for i in range(n):
-            key1 = ord(s[i]) - sub
-            key2 = ord(t[i]) - sub
+            key1 = ord(s[i]) 
+            key2 = ord(t[i]) 
 
             if maps[key1] != -1 and maps[key1] != key2:
                 return False
