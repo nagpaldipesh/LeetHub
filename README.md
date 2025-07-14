@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/nagpaldipesh/LeetHub/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/nagpaldipesh/LeetHub/tree/master/1619-path-crossing) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nagpaldipesh/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nagpaldipesh/LeetHub/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
