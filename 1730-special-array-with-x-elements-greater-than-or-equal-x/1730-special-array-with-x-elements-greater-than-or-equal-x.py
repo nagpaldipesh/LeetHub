@@ -5,8 +5,6 @@ class Solution:
 
         # for i in range(1, nums[n-1] + 1):
 
-        max_num = max(nums)
-
         for i in range(1, len(nums) + 1):
             equalOrGreater = 0
             for num in nums:
