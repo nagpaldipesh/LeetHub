@@ -2,7 +2,7 @@ class Solution:
     def specialArray(self, nums: List[int]) -> int:
         max_num = max(nums)
 
-        for i in range(max_num + 1):
+        for i in range(1, max_num + 1):
             equalOrGreater = 0
             for num in nums:
                 if num >= i:
@@ -11,6 +11,4 @@ class Solution:
             if i == equalOrGreater:
                 return i
             
-        return -1
-
         return -1
