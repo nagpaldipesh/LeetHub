@@ -8,7 +8,7 @@ class Solution:
             if nums[index] < 1:
                 duplicateNumber = index + 1
             else:
-                nums[index] = -1 * nums[index]
+                nums[index] *= -1 
 
         for i, num in enumerate(nums):
             if num > 0:
