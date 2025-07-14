@@ -15,12 +15,12 @@ class Solution:
 
         result = []
 
-        for i, freq in enumerate(min_freq):
+        for i in range(26):
             #print(freq)
+            freq = min_freq[i]
             if freq > 0:
                 c = chr(i+sub)
-                for j in range(freq):
-                    result.append(c)
+                result.extend(c * freq)
 
         # return list(c if freq > 0 for i, freq in enumerate(min_freq))
 
