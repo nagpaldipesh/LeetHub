@@ -1,9 +1,12 @@
 class Solution:
     def minOperations(self, s: str) -> int:
-        return min(
-            self.getMinOperations(s, True),
-            self.getMinOperations(s, False)
-            )
+        
+        return self.getMinOperations(s, s[0] == '0')
+
+        # return min(
+        #     self.getMinOperations(s, True),
+        #     self.getMinOperations(s, False)
+        #     )
         
     def getMinOperations(self, s: str, isZero: bool) -> int:
         changesRequired = 0
