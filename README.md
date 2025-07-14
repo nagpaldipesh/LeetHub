@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/nagpaldipesh/LeetHub/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/1635-number-of-good-pairs) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nagpaldipesh/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nagpaldipesh/LeetHub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nagpaldipesh/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/nagpaldipesh/LeetHub/tree/master/0645-set-mismatch) |
 | [1137-height-checker](https://github.com/nagpaldipesh/LeetHub/tree/master/1137-height-checker) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Binary Search
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nagpaldipesh/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/nagpaldipesh/LeetHub/tree/master/0792-binary-search) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
 |  |
 | ------- |
