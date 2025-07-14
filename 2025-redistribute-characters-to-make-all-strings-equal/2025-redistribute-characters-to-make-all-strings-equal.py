@@ -1,9 +1,6 @@
-class Solution(object):
-    def makeEqual(self, words):
-        """
-        :type words: List[str]
-        :rtype: bool
-        """
+class Solution:
+    def makeEqual(self, words: List[str]) -> bool:
+
         from collections import Counter
 
         freq = Counter("".join(words))
@@ -28,5 +25,3 @@ class Solution(object):
         #         return False
 
         # return True
-
-        
