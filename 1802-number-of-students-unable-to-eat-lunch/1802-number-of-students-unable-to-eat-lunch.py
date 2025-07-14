@@ -8,7 +8,7 @@ class Solution:
         count = 0
         while students:
             sandwich = sandwiches[0]
-            print(f"sandwich: {sandwich}, Square: {student_count[1]}, Circular: {student_count[0]} ")
+            
             if(student_count[sandwich] == 0):
                 return n - count
 
@@ -18,7 +18,6 @@ class Solution:
                 student_count[expected] -= 1
                 sandwiches.pop(0)
                 count += 1
-                print(f"Eat {count} n: {n}")
             else:
                 students.append(expected)
 
