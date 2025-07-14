@@ -9,9 +9,9 @@ class Solution:
         for word in words:
             freq = Counter(word)
 
-            for i, count in enumerate(min_freq):
+            for i in range(26):
                 c = chr(i+sub)
-                min_freq[i] = min(count, freq[c])
+                min_freq[i] = min(min_freq[i], freq[c])
 
         result = []
 
@@ -21,5 +21,7 @@ class Solution:
                 c = chr(i+sub)
                 for j in range(freq):
                     result.append(c)
+
+        # return list(c if freq > 0 for i, freq in enumerate(min_freq))
 
         return result
