@@ -1,23 +1,15 @@
 class Solution:
     def minOperations(self, s: str) -> int:
         
-        return self.getMinOperations(s, s[0] == '0')
+        count = count1 = 0
 
-        # return min(
-        #     self.getMinOperations(s, True),
-        #     self.getMinOperations(s, False)
-        #     )
+        for i in range(len(s)):
+            expected_1 = '0' if i % 2 == 0 else '1'
+            expected_2 = '1' if i % 2 == 0 else '0'
+
+            if s[i] != expected_1: 
+                count += 1
+            elif s[i] != expected_2: 
+                count1 += 1
         
-    def getMinOperations(self, s: str, isZero: bool) -> int:
-        changesRequired = 0
-
-        for c in s:
-            
-            if isZero and c == '1':
-                changesRequired += 1
-            elif not isZero and c == '0':
-                changesRequired += 1
-
-            isZero = not isZero
-
-        return changesRequired
+        return min(count, count1)
