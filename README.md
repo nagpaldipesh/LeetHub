@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/nagpaldipesh/LeetHub/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/nagpaldipesh/LeetHub/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/nagpaldipesh/LeetHub/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/nagpaldipesh/LeetHub/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/nagpaldipesh/LeetHub/tree/master/0816-design-hashset) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nagpaldipesh/LeetHub/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/nagpaldipesh/LeetHub/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/nagpaldipesh/LeetHub/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/nagpaldipesh/LeetHub/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nagpaldipesh/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nagpaldipesh/LeetHub/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/nagpaldipesh/LeetHub/tree/master/0645-set-mismatch) |
 | [1137-height-checker](https://github.com/nagpaldipesh/LeetHub/tree/master/1137-height-checker) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Binary Search
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/nagpaldipesh/LeetHub/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nagpaldipesh/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
