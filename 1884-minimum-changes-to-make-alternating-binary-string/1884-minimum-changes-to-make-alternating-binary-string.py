@@ -9,7 +9,7 @@ class Solution:
 
             if s[i] != expected_1: 
                 count += 1
-            elif s[i] != expected_2: 
+            if s[i] != expected_2: 
                 count1 += 1
         
         return min(count, count1)
