@@ -3,7 +3,7 @@ class Solution:
         from collections import Counter
         freq = Counter(nums)
 
-        return sorted(nums, key= lambda x: (freq[x], -x))
+        #return sorted(nums, key= lambda x: (freq[x], -x))
 
-        #nums.sort(key = lambda x: (freq[x], -x))
-        #return nums
+        nums.sort(key = lambda x: (freq[x], -x))
+        return nums
