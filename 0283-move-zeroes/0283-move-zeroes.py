@@ -5,12 +5,9 @@ class Solution:
         """
         
         nonZeroIndex = 0
-        start = 0
-        end = len(nums) - 1
 
-        while start <= end:
-            if nums[start] != 0:
-                nums[start], nums[nonZeroIndex] = nums[nonZeroIndex], nums[start]
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[i], nums[nonZeroIndex] = nums[nonZeroIndex], nums[i]
                 nonZeroIndex += 1
-            start += 1
             
