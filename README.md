@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nagpaldipesh/LeetHub/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2502-sort-the-people](https://github.com/nagpaldipesh/LeetHub/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/nagpaldipesh/LeetHub/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nagpaldipesh/LeetHub/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nagpaldipesh/LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
+| [2502-sort-the-people](https://github.com/nagpaldipesh/LeetHub/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nagpaldipesh/LeetHub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/nagpaldipesh/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/nagpaldipesh/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nagpaldipesh/LeetHub/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
+| [2502-sort-the-people](https://github.com/nagpaldipesh/LeetHub/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/nagpaldipesh/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2502-sort-the-people](https://github.com/nagpaldipesh/LeetHub/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
