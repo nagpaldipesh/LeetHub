@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/nagpaldipesh/LeetHub/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/nagpaldipesh/LeetHub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nagpaldipesh/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/nagpaldipesh/LeetHub/tree/master/1803-average-waiting-time) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/nagpaldipesh/LeetHub/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/nagpaldipesh/LeetHub/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/nagpaldipesh/LeetHub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nagpaldipesh/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/nagpaldipesh/LeetHub/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/nagpaldipesh/LeetHub/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/nagpaldipesh/LeetHub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/nagpaldipesh/LeetHub/tree/master/2502-sort-the-people) |
 ## Binary Search
