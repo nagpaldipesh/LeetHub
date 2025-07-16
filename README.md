@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/nagpaldipesh/LeetHub/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
+| [1019-squares-of-a-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/nagpaldipesh/LeetHub/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nagpaldipesh/LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/nagpaldipesh/LeetHub/tree/master/1137-height-checker) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Tree
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nagpaldipesh/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nagpaldipesh/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/nagpaldipesh/LeetHub/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/nagpaldipesh/LeetHub/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
