@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nagpaldipesh/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/nagpaldipesh/LeetHub/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nagpaldipesh/LeetHub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nagpaldipesh/LeetHub/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/nagpaldipesh/LeetHub/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nagpaldipesh/LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
