@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/nagpaldipesh/LeetHub/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/nagpaldipesh/LeetHub/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/nagpaldipesh/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/nagpaldipesh/LeetHub/tree/master/1044-find-common-characters) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nagpaldipesh/LeetHub/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/nagpaldipesh/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nagpaldipesh/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/nagpaldipesh/LeetHub/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/nagpaldipesh/LeetHub/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/nagpaldipesh/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/nagpaldipesh/LeetHub/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1217-relative-sort-array) |
