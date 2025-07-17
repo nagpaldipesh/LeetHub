@@ -4,6 +4,6 @@ class Solution:
 
         result = ""
         for i in range(len(words)):
-            result = result + "".join(words[i][::-1]) + " "
+            result = result + str(words[i][::-1]) + " "
 
         return result[0:-1]
