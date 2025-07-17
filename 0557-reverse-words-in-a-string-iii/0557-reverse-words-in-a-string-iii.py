@@ -3,7 +3,7 @@ class Solution:
         words = s.split()
 
         result = ""
-        for i in range(len(words)):
-            result = result + str(words[i][::-1]) + " "
+        for word in words:
+            result = result + str(word[::-1]) + " "
 
         return result[0:-1]
