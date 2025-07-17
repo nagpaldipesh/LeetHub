@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/nagpaldipesh/LeetHub/tree/master/2502-sort-the-people) |
+| [2551-apply-operations-to-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nagpaldipesh/LeetHub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/nagpaldipesh/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/nagpaldipesh/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/nagpaldipesh/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2551-apply-operations-to-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Tree
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/nagpaldipesh/LeetHub/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nagpaldipesh/LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
+| [2551-apply-operations-to-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
