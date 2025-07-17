@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nagpaldipesh/LeetHub/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nagpaldipesh/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nagpaldipesh/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/nagpaldipesh/LeetHub/tree/master/1044-find-common-characters) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nagpaldipesh/LeetHub/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nagpaldipesh/LeetHub/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nagpaldipesh/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/nagpaldipesh/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/nagpaldipesh/LeetHub/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/nagpaldipesh/LeetHub/tree/master/1803-average-waiting-time) |
