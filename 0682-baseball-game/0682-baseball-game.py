@@ -9,8 +9,7 @@ class Solution:
             elif operation == "D":
                 stack.append(stack[-1] * 2)
             elif operation == "+":
-                total = stack[-1] + stack[-2]
-                stack.append(total)
+                stack.append(stack[-1] + stack[-2])
             else:
                 stack.append(int(operation))
         
