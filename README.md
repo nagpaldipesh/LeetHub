@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/nagpaldipesh/LeetHub/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/nagpaldipesh/LeetHub/tree/master/1619-path-crossing) |
+| [1666-make-the-string-great](https://github.com/nagpaldipesh/LeetHub/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nagpaldipesh/LeetHub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nagpaldipesh/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nagpaldipesh/LeetHub/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nagpaldipesh/LeetHub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/nagpaldipesh/LeetHub/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Array
