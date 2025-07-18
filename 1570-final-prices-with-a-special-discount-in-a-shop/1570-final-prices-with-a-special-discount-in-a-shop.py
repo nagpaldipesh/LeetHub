@@ -5,13 +5,12 @@ class Solution:
         stack = []
 
         for num in reversed(prices):
-            
             while len(stack) > 0 and stack[-1] > num:
                 stack.pop()
-            
-            result[n-1] = num - stack[-1] if len(stack) > 0 else num
+
+            n -= 1
+            result[n] = num - stack[-1] if len(stack) > 0 else num
             
             stack.append(num)
-            n -= 1
 
         return result
