@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nagpaldipesh/LeetHub/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/nagpaldipesh/LeetHub/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/nagpaldipesh/LeetHub/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/nagpaldipesh/LeetHub/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/nagpaldipesh/LeetHub/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/nagpaldipesh/LeetHub/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/nagpaldipesh/LeetHub/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/nagpaldipesh/LeetHub/tree/master/0816-design-hashset) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/nagpaldipesh/LeetHub/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/nagpaldipesh/LeetHub/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
