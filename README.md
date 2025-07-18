@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nagpaldipesh/LeetHub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/nagpaldipesh/LeetHub/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/nagpaldipesh/LeetHub/tree/master/2580-circular-sentence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/nagpaldipesh/LeetHub/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2470-removing-stars-from-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nagpaldipesh/LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2232-adding-spaces-to-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
