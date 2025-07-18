@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/nagpaldipesh/LeetHub/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/nagpaldipesh/LeetHub/tree/master/1619-path-crossing) |
+| [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nagpaldipesh/LeetHub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nagpaldipesh/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nagpaldipesh/LeetHub/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nagpaldipesh/LeetHub/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
+| [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/nagpaldipesh/LeetHub/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/1635-number-of-good-pairs) |
+| [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nagpaldipesh/LeetHub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nagpaldipesh/LeetHub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
