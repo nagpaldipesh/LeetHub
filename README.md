@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/nagpaldipesh/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/nagpaldipesh/LeetHub/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/nagpaldipesh/LeetHub/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nagpaldipesh/LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/nagpaldipesh/LeetHub/tree/master/1297-maximum-number-of-balloons) |
 | [1524-string-matching-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1524-string-matching-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nagpaldipesh/LeetHub/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/nagpaldipesh/LeetHub/tree/master/0983-validate-stack-sequences) |
+| [1078-remove-outermost-parentheses](https://github.com/nagpaldipesh/LeetHub/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nagpaldipesh/LeetHub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/nagpaldipesh/LeetHub/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
