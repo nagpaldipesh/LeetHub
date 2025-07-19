@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/nagpaldipesh/LeetHub/tree/master/1619-path-crossing) |
 | [1666-make-the-string-great](https://github.com/nagpaldipesh/LeetHub/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nagpaldipesh/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nagpaldipesh/LeetHub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nagpaldipesh/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nagpaldipesh/LeetHub/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nagpaldipesh/LeetHub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/nagpaldipesh/LeetHub/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/nagpaldipesh/LeetHub/tree/master/1720-crawler-log-folder) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nagpaldipesh/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/nagpaldipesh/LeetHub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nagpaldipesh/LeetHub/tree/master/2800-minimum-string-length-after-removing-substrings) |
