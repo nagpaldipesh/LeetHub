@@ -12,7 +12,7 @@ class Solution:
         high = n
 
         while low <= high:
-            mid = low + int((high - low) / 2)
+            mid = low + (high - low) // 2
 
             num = guess(mid)
             #print(mid)
