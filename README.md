@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nagpaldipesh/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/nagpaldipesh/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/nagpaldipesh/LeetHub/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/nagpaldipesh/LeetHub/tree/master/0792-binary-search) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nagpaldipesh/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/nagpaldipesh/LeetHub/tree/master/0441-arranging-coins) |
 | [1635-number-of-good-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/nagpaldipesh/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
