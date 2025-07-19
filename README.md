@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nagpaldipesh/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nagpaldipesh/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nagpaldipesh/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/nagpaldipesh/LeetHub/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nagpaldipesh/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/nagpaldipesh/LeetHub/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/nagpaldipesh/LeetHub/tree/master/0817-design-hashmap) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nagpaldipesh/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nagpaldipesh/LeetHub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nagpaldipesh/LeetHub/tree/master/0349-intersection-of-two-arrays) |
