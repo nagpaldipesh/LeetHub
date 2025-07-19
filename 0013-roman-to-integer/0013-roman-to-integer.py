@@ -14,8 +14,9 @@ class Solution:
         num = roman_map[s[n - 1]]
         for i in reversed(range(n -1)):
             c = s[i]
-            next_char = s[i+1]
-            if ((c == 'I' and next_char in 'VX') or (c == 'X' and next_char in 'LC') or (c == 'C' and next_char in 'DM')):
+            # next_char = s[i+1]
+            # if ((c == 'I' and next_char in 'VX') or (c == 'X' and next_char in 'LC') or (c == 'C' and next_char in 'DM')):
+            if roman_map[c] < roman_map[s[i+1]]:
                 num -= roman_map[c]
             else:
                 num += roman_map[c]
