@@ -11,14 +11,16 @@ class Solution:
         p2 = headB
 
         while(p1 != p2):
-            if p1 == None:
-                p1 = headB
-            else:
-                p1 = p1.next
+            p1 = p1.next if p1 else headB
+            p2 = p2.next if p2 else headA
+            # if p1 == None:
+            #     p1 = headB
+            # else:
+            #     p1 = p1.next
 
-            if p2 == None:
-                p2 = headA
-            else:
-                p2 = p2.next
+            # if p2 == None:
+            #     p2 = headA
+            # else:
+            #     p2 = p2.next
         
         return p1
