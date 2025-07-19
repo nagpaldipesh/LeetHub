@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nagpaldipesh/LeetHub/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nagpaldipesh/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/nagpaldipesh/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/nagpaldipesh/LeetHub/tree/master/0792-binary-search) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nagpaldipesh/LeetHub/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
@@ -414,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nagpaldipesh/LeetHub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nagpaldipesh/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
