@@ -5,9 +5,8 @@ class Solution:
         for c in s:
             if c == '(':
                 maxSoFar += 1
+                maxDep = max(maxSoFar, maxDep)
             elif c == ')':
                 maxSoFar -= 1
             
-            maxDep = max(maxSoFar, maxDep)
-
         return maxDep
