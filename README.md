@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/nagpaldipesh/LeetHub/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nagpaldipesh/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/nagpaldipesh/LeetHub/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nagpaldipesh/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/nagpaldipesh/LeetHub/tree/master/0965-unique-email-addresses) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/nagpaldipesh/LeetHub/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1524-string-matching-in-an-array) |
 ## Monotonic Stack
 |  |
