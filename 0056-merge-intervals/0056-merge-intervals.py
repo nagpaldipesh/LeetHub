@@ -7,7 +7,7 @@ class Solution:
 
         result = [intervals[0]]
 
-        for start, end in intervals:
+        for start, end in intervals[1:]:
             lastStart, lastEnd = result[-1]
 
             if (start > lastEnd):
