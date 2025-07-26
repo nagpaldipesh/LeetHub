@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nagpaldipesh/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nagpaldipesh/LeetHub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagpaldipesh/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nagpaldipesh/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nagpaldipesh/LeetHub/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nagpaldipesh/LeetHub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nagpaldipesh/LeetHub/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nagpaldipesh/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nagpaldipesh/LeetHub/tree/master/0142-linked-list-cycle-ii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nagpaldipesh/LeetHub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nagpaldipesh/LeetHub/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nagpaldipesh/LeetHub/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nagpaldipesh/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nagpaldipesh/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nagpaldipesh/LeetHub/tree/master/0242-valid-anagram) |
