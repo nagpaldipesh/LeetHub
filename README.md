@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/nagpaldipesh/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nagpaldipesh/LeetHub/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/nagpaldipesh/LeetHub/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagpaldipesh/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nagpaldipesh/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/nagpaldipesh/LeetHub/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/nagpaldipesh/LeetHub/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nagpaldipesh/LeetHub/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nagpaldipesh/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nagpaldipesh/LeetHub/tree/master/0441-arranging-coins) |
+| [1013-fibonacci-number](https://github.com/nagpaldipesh/LeetHub/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/nagpaldipesh/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/nagpaldipesh/LeetHub/tree/master/2032-largest-odd-number-in-string) |
@@ -496,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nagpaldipesh/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nagpaldipesh/LeetHub/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
