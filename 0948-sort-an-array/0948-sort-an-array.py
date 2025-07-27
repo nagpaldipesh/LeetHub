@@ -1,44 +1,36 @@
 class Solution:
     ################### Quick SORT #######################
     def sortArray(self, nums: List[int]) -> List[int]:
-        self._quick_sort_3_ways(nums, 0, len(nums) - 1)
+        self.quick_sort_3_ways(nums, 0, len(nums) - 1)
         return nums
+    
+    def quick_sort_3_ways(self, nums:List[int], low: int, high: int):
 
-    def _quick_sort_3_ways(self, nums: List[int], low: int, high: int):
-        # --- FIX 1: Correct Base Case ---
-        # The recursion should stop if the sub-array has 0 or 1 elements.
         if low >= high:
-            return 
+            return
         
-        # This part of choosing the pivot is fine
         pivot_index = random.randint(low, high)
-        nums[low], nums[pivot_index] = nums[pivot_index], nums[low]
+        nums[pivot_index], nums[low] = nums[low], nums[pivot_index]
         pivot = nums[low]
 
-        # lt: pointer for the end of the 'less than' section
-        # gt: pointer for the start of the 'greater than' section
-        # i: current element scanner
         lt, gt, i = low, high, low + 1
 
-        # --- FIX 2: Correct Partition Logic ---
         while i <= gt:
             if nums[i] < pivot:
-                # Element is smaller than pivot, move it to the 'lt' section
                 nums[lt], nums[i] = nums[i], nums[lt]
+                i += 1
                 lt += 1
-                i += 1
+            
             elif nums[i] > pivot:
-                # Element is larger than pivot, move it to the 'gt' section
-                nums[i], nums[gt] = nums[gt], nums[i]
+                nums[gt], nums[i] = nums[i], nums[gt]
                 gt -= 1
-            else: # nums[i] == pivot
-                # Element is equal, just move the scanner
+            else:
                 i += 1
-        
-        # Recursive calls on the 'less than' and 'greater than' parts
-        self._quick_sort_3_ways(nums, low, lt - 1)
-        self._quick_sort_3_ways(nums, gt + 1, high)
-        
+
+        self.quick_sort_3_ways(nums, low, lt - 1)
+        self.quick_sort_3_ways(nums, gt + 1, high)
+
+
     ################################## Time Limit Exceed #########################
     # def sortArray(self, nums: List[int]) -> List[int]:
     #     self._quick_sort(nums, 0, len(nums) - 1)
