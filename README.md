@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nagpaldipesh/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nagpaldipesh/LeetHub/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/nagpaldipesh/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nagpaldipesh/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nagpaldipesh/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/nagpaldipesh/LeetHub/tree/master/0605-can-place-flowers) |
