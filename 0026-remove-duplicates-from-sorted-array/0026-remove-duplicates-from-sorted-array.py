@@ -3,9 +3,11 @@ class Solution:
         
         uniqueIndex = 0
 
-        for i in range(1, len(nums)):
-            if nums[i] != nums[uniqueIndex]:
+        for index in range(1, len(nums)):
+
+            if(nums[index] != nums[index - 1]):
                 uniqueIndex += 1
-                nums[uniqueIndex] = nums[i]
+                nums[uniqueIndex] = nums[index]
+
         
         return uniqueIndex + 1
