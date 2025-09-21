@@ -8,8 +8,10 @@ class Solution:
 
             if num == 1:
                 onesSoFar += 1
-            
-                maxOnesCount = max(maxOnesCount, onesSoFar)
+
+                if(onesSoFar > maxOnesCount):
+                    maxOnesCount = onesSoFar
+                #maxOnesCount = max(maxOnesCount, onesSoFar)
 
             else:
                 onesSoFar = 0
