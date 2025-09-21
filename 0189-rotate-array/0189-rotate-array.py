@@ -3,23 +3,20 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        
-        n = len(nums)
 
-        if k > n:
-            k %= n
+        k = k % len(nums) 
 
-        self.rotate_by_indexes(nums, 0, n - 1)
-        self.rotate_by_indexes(nums, 0, k - 1)
-        self.rotate_by_indexes(nums, k, n - 1)
-        # for i in range(k):
-        #     num = nums.pop()
-        #     nums.insert(0, num)
+        def rotate(nums: List[int], start:int, end: int) -> None:
+            
+            #print(end)
+            while start < end:
+                nums[end] , nums[start] = nums[start] , nums[end]
 
-    
-    def rotate_by_indexes(self, nums: List[int], start: int, end: int) -> None:
+                start += 1
+                end -= 1
+            
+        end= len(nums) - 1
 
-        while start < end:
-            nums[start] , nums [end] = nums[end], nums[start]
-            start += 1
-            end -= 1
+        rotate(nums, 0, end)
+        rotate(nums, 0, k-1)
+        rotate(nums, k, end)
