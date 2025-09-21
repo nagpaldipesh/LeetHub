@@ -7,7 +7,7 @@ class Solution:
 
             profit = max(profit, maxNum - prices[i])
 
-            print(profit, maxNum, prices[i])
+            #print(profit, maxNum, prices[i])
             if prices[i] > maxNum:
                 maxNum = prices[i]
         
